@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O54ukRZpoBV+RvdJd3wj8sJclIOsrBSqbBozpIFY0p0sh+Dd0NujKL6MUGdjnjORlBHSFE83CWjjUZMg0PAEvA==",
+  "success": true,
+  "projectFilePath": "D:\\Estudos\\refatorando-para-testes-de-unidade\\Store\\Store.Domain\\Store.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\th30\\.nuget\\packages\\flunt\\1.0.4\\flunt.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

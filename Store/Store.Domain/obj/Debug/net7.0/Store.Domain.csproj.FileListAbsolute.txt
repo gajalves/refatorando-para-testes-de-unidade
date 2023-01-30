@@ -1,0 +1,12 @@
+D:\Estudos\refatorando-para-testes-de-unidade\Store\Store.Domain\bin\Debug\net7.0\Store.Domain.deps.json
+D:\Estudos\refatorando-para-testes-de-unidade\Store\Store.Domain\bin\Debug\net7.0\Store.Domain.dll
+D:\Estudos\refatorando-para-testes-de-unidade\Store\Store.Domain\bin\Debug\net7.0\Store.Domain.pdb
+D:\Estudos\refatorando-para-testes-de-unidade\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.csproj.AssemblyReference.cache
+D:\Estudos\refatorando-para-testes-de-unidade\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\refatorando-para-testes-de-unidade\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.AssemblyInfoInputs.cache
+D:\Estudos\refatorando-para-testes-de-unidade\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.AssemblyInfo.cs
+D:\Estudos\refatorando-para-testes-de-unidade\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.csproj.CoreCompileInputs.cache
+D:\Estudos\refatorando-para-testes-de-unidade\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.dll
+D:\Estudos\refatorando-para-testes-de-unidade\Store\Store.Domain\obj\Debug\net7.0\refint\Store.Domain.dll
+D:\Estudos\refatorando-para-testes-de-unidade\Store\Store.Domain\obj\Debug\net7.0\Store.Domain.pdb
+D:\Estudos\refatorando-para-testes-de-unidade\Store\Store.Domain\obj\Debug\net7.0\ref\Store.Domain.dll
